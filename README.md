@@ -1,0 +1,1 @@
+A React boilerplate that uses TypeScript, Vite, TailwindCSS and PostCSS.
